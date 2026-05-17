@@ -26,4 +26,4 @@ A simple text-based Hangman Game built using Python.
 3. Run the command:
 
 ```bash
-python gman.py
+python game.py
